@@ -1,4 +1,7 @@
- * print_diagonal - Drawsa diagonal line on terminal
+#include "main.h"
+
+/**
+ * print_diagonal - Draws a diagonal line on terminal
  * @n: number of lines
  */
 void print_diagonal(int n)
